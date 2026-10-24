@@ -1,0 +1,26 @@
+{
+  "qaoa_depth": 1,
+  "selected_training_seed": 44,
+  "gamma": 0.48971706106726154,
+  "beta": 2.7269697611688657,
+  "energy_scale": 1440.0,
+  "transpiler_seed": 42,
+  "compiled_gate_counts": {
+    "rz": 68,
+    "cx": 56,
+    "sx": 24
+  },
+  "one_qubit_noisy_gates": [
+    "sx",
+    "x"
+  ],
+  "two_qubit_noisy_gates": [
+    "cx"
+  ],
+  "noiseless_basis_gates": [
+    "rz"
+  ],
+  "cx_noise_multiplier": 2,
+  "simulation_method": "density_matrix",
+  "angles_retrained_under_noise": false
+}
