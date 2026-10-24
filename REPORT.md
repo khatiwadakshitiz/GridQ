@@ -9,7 +9,7 @@
 - Department(s): School of CIS, and School of Natural Science and Mathematics
 - Career level: Undergraduate student
 - Track: QAOA
-- Requested category: Rising-star; final classification is determined by the committee
+- Requested category: Rising-star
 
 ## Summary of Work
 
